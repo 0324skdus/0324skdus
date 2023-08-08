@@ -1,4 +1,5 @@
 ### Hi there👋This is Ginnal's GitProfile
+## ☎️ Contact 
 <a href="pomoq324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pomoq324@gmail.com-EA4335?flat-square&logo=Gmail&logoColor=white"/></a>
 ## 📖 Skills
 - Language <img src="https://img.shields.io/badge/Java-007396?for-the-badge&logo=Java&logoColor=white"/></a>
