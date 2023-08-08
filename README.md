@@ -5,8 +5,8 @@
 - Language <img src="https://img.shields.io/badge/Java-007396?for-the-badge&logo=Java&logoColor=white"/></a>
 - Framework <img src="https://img.shields.io/badge/Spring-6DB33F?for-the-badge&logo=Spring&logoColor=white"/></a>
 - Tools <img src="https://img.shields.io/badge/IntelliJ IDEA-FFFFFF?for-the-badge&logo=IntelliJ IDEA&logoColor=black"/></a>
-<img src="https://img.shields.io/badge/amazonaws-232F3E?for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/postman-FF6C37?for-the-badge&logo=postman&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Postman-FF6C37?for-the-badge&logo=postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?for-the-badge&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?for-the-badge&logo=mysql&logoColor=white"/></a>
 
