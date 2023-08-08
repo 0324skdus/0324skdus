@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="pomoq324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-FE2E2E?style=for-the-badge&logo=#EA4335&logoColor=000000"/></a>
+<a href="pomoq324@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pomoq324@gmail.com-FE2E2E?style=for-the-badge&logo=EA4335&logoColor=000000"/></a>
 
 <!--
 **0324skdus/0324skdus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
