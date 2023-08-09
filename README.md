@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?for-the-badge&logo=postman&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?for-the-badge&logo=git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?for-the-badge&logo=mysql&logoColor=white"/></a>
-
+![Gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 
 
 
